@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, ini
+    tial-scale=1.0">
+    <title>Bit Solutions</title>
+    <link rel="stylesheet" href="./assets/css/bootstrap.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/css/all.min.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+
+</head>
+
+<body>
+    <!-- ============= Nav Bar ================= -->
+
+    <div class="container-fluid">
+        <div class="row m-0">
+            <nav class="col-md-12 navbar navbar-expand-lg navbar-light">
+                <a href="#" class="navbar-brand ml-5 responsive-adusjment"><img id="logo-image" src="./assets/images/11.png" alt="logoImage">
+                    <span id="logoName" class=" ml-3">Bit-Solutions</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-target="#nav1" data-toggle="collapse">
+                    <span class=" navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="nav1">
+                    <ul class=" navigation navbar-nav nav-fill ">
+                        <li class=" nav-item"><a class="nav-link " href="#">Help</a></li>
+                        <li class=" nav-item"><a class=" nav-link " href="#">Pricing</a></li>
+                        <li class=" nav-item"><a class=" nav-link " href="#">EnterPrise</a></li>
+                        <li class=" nav-item"><a class=" nav-link " href="#">Mock-Up store</a></li>
+                        <li class=" nav-item"><a class=" nav-link " href="#">Explore</a></li>
+
+                    </ul>
+
+                    <ul class="navigation navbar-nav nav-fill ml-auto ">
+                        <li class=" nav-item"><a class=" nav-link " href="#">Login</a></li>
+                        <li class=" nav-item">
+                            <a class=" nav-link " href="#">
+                                <span id="sign-Up"> Sign-Up</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <!-- ============= Home Section ================= -->
+ 
+        <div class="container-fluid container1">
+
+            
+            <div class="row m-0 ">
+                <div class="col-md-6 col-sm-12 showcase">
+                    <div class="row">
+                        <div id="showcase-left" class="ml-5 col-md-10">
+                            <div id="heading-light">
+                                <span id="New">New</span>
+                                <span id="New1"> UI Packs for iOS14, iPadOS 14 and macOS 11</span>
+                            </div>
+                            <div id="mainTheme">
+                                <span id="main-id-1"> Super-easy tool
+                                    to brainstorm UI ideas
+                                </span>
+                                <span id="heading-light-1" class="mt-4 d-block"> MockFlow helps your team's software
+                                    planning
+                                    to quickly draw and iterate on UI designs.
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ml-4 row">
+                        <div class="col-md-12 col-sm-12">
+                            <button class="btn btn-lg " class="btn" type="button">Get Started For Free</button>
+                        </div>                                                                                      
+                    </div>
+                </div>
+
+
+
+
+                <div class="col-md-6 col-sm-12 showcase">
+                    <video autoplay loop muted playsinline class="w-100">
+                        <source class="" id="video-adjustment" src="./assets/videos/banner2.mp4">
+                    </video>
+                </div>
+
+
+            </div>
+        </div>
+
+
+    <!-- =============== Container of main Data ======================== -->
+
+    <div class=" container-fluid">
+        <div class="row bg-color">
+            <div class="col-md-5 col-sm-12 content-main-data ml-5 mr-5">
+                <span id="content-1">Visualize</span>
+                <img id="img-icon" src="./assets/images/planningIcon.png" alt="">
+                <span class="d-block" id="content-2">Plan better UI by rapidly sketching interface layouts in a short
+                    time without any complexity</span>
+                <img class="w-100" src="./assets/images/visualize.jpg" alt="Visualize-Image">
+            </div>
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="content-main-data w-100  col-md-12 ml-5 ">
+                        <div class="img-Area w-100 d-md-block d-sm-none d-none"></div>
+                        <div class="txt-Area1 ctn-txt">
+                            <img class="img-main-content" class=" d-block" src="./assets/images/drawIcon.png" alt="#">
+                            <h2 class="manage-data">Editor</h2>
+                            <p style="margin: 1rem;">Full featured and intuitive editor that brings your concepts to
+                                life
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mrgn">
+                    <div class="txt-Area2 ml-lg-5 ctn-txt sm-view">
+                        <img class="img-main-content" src="./assets/images/drawIcon.png" alt="">
+                        <h2 class="manage-data">Preview</h2>
+                        <p style="margin: .2rem;">Play, review or present your UI drawings in preview mode</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="ml-4 col-md-12">
+                        <div class="txt-Area3 ctn-txt ">
+                            <img class="img-main-content" src="./assets/images/comments.png" alt="#auto comments">
+                            <h2 class="manage-data ">Components</h2>
+                            <p style="margin: .2rem;">Thousands of pre-built components and layouts to draw any type of
+                                UI
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="ml-5 responsive-adusjment-1 col-md-11">
+                        <div class="txt-Area3 ctn-txt ">
+                            <img src="./assets/images/componentsIcon.png" alt="ComponentsIcon" class="img-main-content">
+                            <h2 class="manage-data">Iterate</h2>
+                            <p style="margin: .2rem;">Ideas always evolve, so do UI. Iterate faster with revision
+                                tracker
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+        <!-- ==================== Document ========================= -->
+
+        <div class="container-fluid">
+            <div class="row mt-lg-5">
+                <div class="Document-responsive ml-5 col-md-5">
+                    <div class="document-txt-area">
+                        <h1 class="content-5">Doucment</h1>
+                        <img id="img-icon1" src="./assets/images/documentIcon.png" alt="Document Icon Image">
+                        <p class="w-100">Create beautiful StyleGuides in minutes to document your brand's UI
+                            guidelines. Also auto-generate design specifications and documentation from wireframes.</p>
+                        <div id="icons-img">
+                            <img class="icn-img" src="./assets/images/styleguide.png" alt="specification">
+                            <img class="icn-img" src="./assets/images/specification.png" alt="specification">
+                            <img class="icn-img" src="./assets/images/export.png" alt="specification">
+                        </div>
+                        <div class="txt">
+                            <span class="txt-1">StyleGuide</span>
+                            <span style="margin-left: 17px;" class="txt-1">Specifications</span>
+                            <span class="txt-1 ml-4">Export</span>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="col-md-6 w-100">
+                    <img id="img-main" src="./assets/images/document.png" alt="">
+
+
+
+                </div>
+            </div>
+        </div>
+
+        <br><br><br>
+        <hr>
+
+
+
+        <!-- =======================  Collaboration Part  ================================= -->
+
+        <div class="container-fluid ">
+            <div class="row margin-top-5">
+                <div class="col-md-6">
+                    <img class="w-100" src="./assets/images/collaboration.png" alt="#collabaration Image">
+                </div>
+
+                <div class="col-md-6 document-txt-space">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <h1>Collaborate</h1>
+                        </div>
+                        <div class=" col-md-2">
+                            <img id="img-icn2" src="./assets/images/collaborateIcon.png" alt="">
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-md-10">
+                            <p>
+                                Draw UI collaboratively in MockFlow with its powerful cloud features such as role-based
+                                permissions, real time editing, annotated comments and design approvals to name a few.
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="row mt-5">
+                        <div class="col-md-2 text-center responsive-icon">
+                            <img class="w-50" src="./assets/images/sharing.png" alt="">
+                            <p>Sharing</p>
+                        </div>
+
+                        <div class="col-md-2 text-center responsive-icon">
+                            <img class="w-50" src="./assets/images/comments.png" alt="">
+                            <p>Comments</p>
+                        </div>
+
+                        <div class="col-md-2 text-center responsive-icon">
+                            <img class="w-50" src="./assets/images/workflow.png" alt="">
+                            <p>WorkFlow</p>
+                        </div>
+
+                        <div class="col-md-2 text-center responsive-icon">
+                            <img class="w-50" src="./assets/images/approval.png" alt="">
+                            <p>Approval</p>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- =======================  Mock Store  ============================= -->
+
+        <div class="container-fluid p-0">
+            <div class="row ctn-dark">
+                <div class=" col-md-12 text-center">
+                    <h1 class="mt-5 mb-4"> <span class="border border-dark p-2">Mock</span> Store</h1>
+                    <p>MockStore provides a huge collection of UI component packs and templates to kickstart design
+                        for any interface. Also extend your UI design process with Power-ups in store. They reside
+                        within the editor providing useful add-ons like video feedback, prototyper, requirements,
+                        todolist..</p>
+
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <div class="row">
+                                <div class="offset-md-4 mr-3"></div>
+                                <div class="ml-5 col-md-3 text-center">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <img class="img-setting" src="./assets/images/powerups.png" alt="">
+                                            <p>Power-Ups</p>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <img class="img-setting" src="./assets/images/uipack.png" alt="">
+                                            <p>UI Packs</p>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <img class="img-setting" src="./assets/images/template.png" alt="">
+                                            <p>Templates</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="offset-md-4"></div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <button class="btn btn-lg mb-2" type="button">
+                                More About Power ups
+                            </button>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="offset-md-1">
+                        </div>
+
+                        <div class="col-md-10 mt-5">
+                            <img class=" w-75" src="./assets/images/store.png" alt="">
+                        </div>
+
+                        <div class="offset-md-1">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    <!-- ================   Integrate portion and links    ======================= -->
+
+
+    <div class="container-fluid">
+        <div class="row mt-5 mb-5">
+            <div class="col-md-12 text-center">
+                <div class="row mt-5">
+                    <div class="offset-md-5 mb-4">
+                        <h1 class="h1-integrate">Integrate</h1>
+                    </div>
+                    <div class="col-md-1">
+                        <img class="integrate-icon" src="./assets/images/integrateIcon.png" alt="Integrate">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center mb-4">
+                        <p class="para-int">
+                            Design within your favorite software as MockFlow integrates with industry-leading business
+                            apps to provide a seemless workflow for UI collaboration
+                        </p>
+                    </div>
+                </div>
+                <div class="row  mb-4">
+                    <div class="col-md-12">
+                        <ul class=" justify-content-center integrate-icns">
+                            <li class="ul-item">
+                                <a href=""><img class="w-50 img-integrate" src="./assets/images/windows.png" alt=""></a>
+                            </li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/macOS.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/slack.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/trello.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/confluence.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/jira.png" alt=""></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row mt-4 mb-5">
+                    <div class="offset-md-1"></div>
+                    <div class="col-md-10">
+                        <ul class=" integrate-icns">
+                            <li class="ul-item"><img class="w-50" src="./assets/images/gdrive.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/gDocs.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/office365.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/gSuite.png" alt=""></li>
+                            <li class="ul-item"><img class="w-50" src="./assets/images/okta.png" alt=""></li>
+                        </ul>
+                    </div>
+                    <div class="offset-md-1"></div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ======================   Latest Updates  ============================== -->
+
+    <div class="container-fluid bg-color-latest-update ">
+        <div class="row  justify-content-center adjust-margin ">
+            <div class="col-md-12 mt-5">
+                <div class="row  mt-2">
+                    <div class="offset-md-5 mb-5">
+                        <h1>Latest updates</h1>
+                    </div>
+                    <div class="col-md-1">
+                        <img class="integrate-icon2" src="./assets/images/mfBlogDesign.png" alt="">
+                    </div>
+                </div>
+
+
+                <div class="row ">
+                    <div class="text-center col-md-4  img-setting-latest">
+                        <a href="#"><img class=" w-100" src="./assets/images/ios14.jpg" alt="">
+                        </a>
+                        <div class="txt-box-bg">
+                            <h3>iOS 14 and macOS 11
+                                UI packs</h3>
+                            <p>Visualize UI ideas for upcoming Apple's iOS, iPadOS and macOS updates</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center img-setting-latest" href="#"> <img class="w-100  img-lg-update "
+                            src="./assets/images/revhistory.jpg" alt="">
+                        <div class="txt-box-bg">
+                            <h3 class="">Revision history
+                                <br> re-imagined</h3>
+                            <p>New timeline view, compare differences between revisions & revisions for offline files
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center img-setting-latest">
+                        <a c href=""> <img class="w-100 img-lg-update" src="./assets/images/mobileweb.jpg" alt="">
+                        </a>
+                        <div class="txt-box-bg ">
+                            <h3>Mobile web app
+                                for WireframePro</h3>
+                            <p>Collaborate on UI ideas wherever you are - interact, review and discuss wireframes</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- =================== Footer ====================== -->
+
+    <div class="container-fluid">
+        <div class="row ">
+            <div class="col-md-12">
+                <div class="row mt-5">
+                    <div class="ml-5 col-md-4 font-adjustment-1">
+                        <h2>Start planning your UI now</h2>
+                    </div>
+                    <div class="offset-md-5 reponsive-footer">
+                        <img class="w-25 d-inline-block" src="./assets/images/mfRightArrow.png" alt="">
+                        <h6 class="font-adjustment">Get Started</h6>
+                    </div>
+                    <br><br><br>
+                    <hr>
+                </div>
+
+                <div class="row mt-5 ">
+                    <div class="col-md-3">
+                        <h3 class="ml-5">The UI planning suit</h3>
+                        <span style="font-size: small;" class="d-block mt-3 mb-3 ml-5"> &#169 2020 MockFlow. All rights
+                            reserved.</span>
+                        <span class="w-25 ml-5">
+                            <img style="width: 30px;" class="m-2" src="./assets/images/email.png" alt="#">
+                            <img style="width: 30px;" class="m-2" src="./assets/images/twitter.png" alt="#">
+                        </span>
+                    </div>
+                    <div class="col-md-8 offset-md-1">
+                        <div class="row footer-1">
+                            <div class="col-md-3">
+                                <ul class=" list-unstyled">
+                                    <h5 class=" font-weight-bold">MockFlow</h5>
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">Pricing</a></li>
+                                    <li><a href="#">Enterprise</a></li>
+                                    <li><a href="#">Desktop</a></li>
+                                    <li><a href="#">Integrations</a></li>
+                                    <li><a href="#">MockStore</a></li>
+                                    <li><a href="#">PowerUps</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-3">
+                                <ul class=" list-unstyled">
+                                    <h5 class=" font-weight-bold">Lorem</h5>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+
+                                </ul>
+                            </div>
+
+
+                            <div class="col-md-3">
+                                <ul class=" list-unstyled">
+                                    <h5 class=" font-weight-bold">Lorem</h5>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-3">
+                                <ul class=" list-unstyled">
+                                    <h5 class=" font-weight-bold">Lorem</h5>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+                                    <li><a href="#">Lorem12</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+
+
+    <script src="./assets/js/jquery.js"></script>
+    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="./assets/js/script.js"></script>
+
+</body>
+
+</html>
