@@ -29,7 +29,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="nav1">
                     <ul class=" navigation navbar-nav nav-fill ">
-                        <li class=" nav-item"><a class="nav-link " href="#">Help</a></li>
+                        <li class=" nav-item"><a class="nav-link " href="#">house</a></li>
                         <li class=" nav-item"><a class=" nav-link " href="#">Pricing</a></li>
                         <li class=" nav-item"><a class=" nav-link " href="#">EnterPrise</a></li>
                         <li class=" nav-item"><a class=" nav-link " href="#">Mock-Up store</a></li>
