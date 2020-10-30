@@ -22,7 +22,7 @@
         <div class="row m-0">
             <nav class="col-md-12 navbar navbar-expand-lg navbar-light">
                 <a href="#" class="navbar-brand ml-5 responsive-adusjment"><img id="logo-image" src="./assets/images/11.png" alt="logoImage">
-                    <span id="logoName" class=" ml-3">Bit-Solutions</span>
+                    <span id="logoName" class=" ml-3">MockFlow Heuku Deploy</span>
                 </a>
                 <button class="navbar-toggler" type="button" data-target="#nav1" data-toggle="collapse">
                     <span class=" navbar-toggler-icon"></span>
